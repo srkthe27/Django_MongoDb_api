@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "67a306182058077abbcb0ce2"
+  },
+  "title": "The Color of Magic",
+  "author": "Terry Pratchett",
+  "pages": 300,
+  "rating": 8,
+  "geners": [
+    "fantasy",
+    "magic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a32c9f2058077abbcb0ce4"
+  },
+  "title": "Rich Dad Poor Dad",
+  "author": "Robert Kiyoshi",
+  "pages": 300,
+  "rating": 8,
+  "geners": [
+    "finance",
+    "cash flow"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67a32cb62058077abbcb0ce5"
+  },
+  "title": "The Begining After The End",
+  "author": "NaN",
+  "pages": 300,
+  "rating": 8,
+  "geners": [
+    "fantasy",
+    "magic"
+  ]
+}]
